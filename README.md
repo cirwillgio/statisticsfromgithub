@@ -1,10 +1,10 @@
 # statisticsfromgithub
 sript to estrapolate statiscs from github by a keyword
 
-##Lo script da eseguire e' search.py, prende come parametro il path della cartella da usare per output
+##Lo script da eseguire e' search.py, prende come parametro il path della cartella da usare per output , l'anno nel quale iniziare la ricerca , l'anno nel quale finire la ricerca e la parola chiave da ricercare
 
 
-	es.	$ python search.py -i /home/prova/
+	es.	$ python search.py -i /home/prova/ -s 2013 -e 2015 -k docker
 
 
 
